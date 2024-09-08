@@ -1,0 +1,51 @@
+img{
+  border-radius: 50px;
+  width: 100px;
+}
+
+h2{
+  font-size: 18px;
+}
+
+#nickname{
+  color: rgb(12, 191, 227);
+  font-weight: bold;
+
+}
+
+body{
+  background-color: slateblue;
+  /*background-image: url('images/jumbo.gif');*/
+  font-family: Trebuchet MS;
+  color: white;
+  text-align: center;
+}
+
+a{
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 25px;
+  color: slateblue;
+}
+
+#first{
+  color: aqua;
+  font-family: Arial, Helvetica;
+}
+
+#second{
+  text-align: left;
+  color: darkslategrey;
+  background-color: rgb(182, 244, 255);
+  padding: 22px;
+  border-radius: 55px 0 135px 50px;
+}
+
+#third{
+  background-image: url(https://www.pexels.com/photo/grayscale-photo-of-hotel-near-river-399192/);
+}
+
