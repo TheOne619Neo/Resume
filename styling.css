@@ -50,6 +50,14 @@ img {
   margin-bottom: 20px;
 }
 
+.first {
+  font-size: 26px; /* Same as h2 */
+  background: linear-gradient(to right, black, rgb(0, 153, 255));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+}
+
 h1 {
   color: #1e90ff;
   margin-bottom: 10px;
@@ -61,6 +69,14 @@ h2 {
   margin-bottom: 20px;
 }
 
+h4 {
+  font-size: 26px; /* Same as h2 */
+  background: linear-gradient(to right, rgba(187, 208, 214, 0.897), rgba(8, 84, 225, 0.947));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+}
+
 #nickname {
   color: #0cbfe3;
   font-weight: bold;
@@ -70,6 +86,11 @@ h2 {
   color: #1e90ff;
   font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 20px;
+  font-size: 20px; /* Adjust font size */
+  background-color: #f0f8ff; /* Light background color */
+  padding: 10px; /* Add some padding */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 .social-links a {
